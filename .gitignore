@@ -4,3 +4,4 @@ __pycache
 .git
 .venv
 .venv-local
+.env
