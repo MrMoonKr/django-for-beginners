@@ -1,8 +1,56 @@
 {
 	"folders": [
 		{
-			"path": "."
-		}
+			"path": "ch01-setup"
+		},
+        {
+            "path": "ch02-helloworld"
+        },
+        {
+            "path": "ch03-pages"
+        },
+        {
+            "path": "ch04-message-board"
+        },
+        {
+            "path": "ch05-message-board-deploy"
+        },
+        {
+            "path": "ch06-blog"
+        },
+        {
+            "path": "ch07-blog-forms"
+        },
+        {
+            "path": "ch08-blog-users"
+        },
+        {
+            "path": "ch09-blog-deploy"
+        },
+        {
+            "path": "ch10-custom-user-model"
+        },
+        {
+            "path": "ch11-user-authentication"
+        },
+        {
+            "path": "ch12-bootstrap"
+        },
+        {
+            "path": "ch13-password-change-reset"
+        },
+        {
+            "path": "ch14-newspaper"
+        },
+        {
+            "path": "ch15-permissions-authorizations"
+        },
+        {
+            "path": "ch16-comments"
+        },
+        {
+            "path": "ch17-deployment"
+        }
 	],
 	"settings": {}
 }
